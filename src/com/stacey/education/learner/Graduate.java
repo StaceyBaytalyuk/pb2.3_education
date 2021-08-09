@@ -1,4 +1,6 @@
-package com.stacey.education;
+package com.stacey.education.learner;
+
+import com.stacey.education.Person;
 
 public class Graduate implements Learner {
     public void learn(Person person) {

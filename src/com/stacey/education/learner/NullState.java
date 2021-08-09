@@ -1,4 +1,6 @@
-package com.stacey.education;
+package com.stacey.education.learner;
+
+import com.stacey.education.Person;
 
 public class NullState implements Learner {
     public void learn(Person person) {

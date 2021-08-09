@@ -1,5 +1,8 @@
 package com.stacey.education;
 
+import com.stacey.education.learner.Learner;
+import com.stacey.education.learner.NullState;
+
 public class Person {
     private Learner currentState;
 
